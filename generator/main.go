@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"encoding/json"
 	"flag"
-	"fmt"
 	"log"
 	"os"
 	"text/template"
@@ -59,7 +58,7 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	fmt.Println("Done.")
+	log.Println("Done")
 }
 
 func parseText(path string, target *string) {
