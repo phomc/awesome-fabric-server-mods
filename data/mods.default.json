@@ -3,22 +3,39 @@
   "data": {
     "API & Libraries": [
       "fabric-api",
-      "cardboard"
+      "cloth-config"
     ],
     "Optimization": [
       "lithium",
       "starlight",
-      "lazydfu"
+      "lazydfu",
+      "c2me-fabric",
+      "alternate-current"
     ],
     "Monitoring": [
       "spark"
     ],
     "Utility": [
       "chunky",
-      "luckperms"
+      "luckperms",
+      "essential-commands",
+      "invview",
+      "bluemap"
+    ],
+    "Chat": [
+      "no-chat-reports"
+    ],
+    "Game Mode": [
+      "factions"
+    ],
+    "Mechanics": [
+      "healing-campfire"
     ],
     "World Generation": [
-      "terra"
+      "terra",
+      "tectonic",
+      "terralith",
+      "amplified-nether"
     ]
   }
 }
