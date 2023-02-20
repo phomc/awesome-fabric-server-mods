@@ -64,6 +64,8 @@ func FetchProject(name string) *Project {
 		log.Fatalln(err)
 	}
 
+	project.Description = strings.ReplaceAll(project.Description, "\n", "")
+
 	// fix markdown link escapes
 	project.DiscordURL = strings.ReplaceAll(project.DiscordURL, " ", "%20")
 	project.WikiURL = strings.ReplaceAll(project.WikiURL, " ", "%20")
