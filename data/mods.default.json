@@ -3,7 +3,8 @@
   "data": {
     "API & Libraries": [
       "fabric-api",
-      "cloth-config"
+      "cloth-config",
+      "polymer"
     ],
     "Optimization": [
       "lithium",
@@ -20,7 +21,9 @@
       "luckperms",
       "essential-commands",
       "invview",
-      "bluemap"
+      "bluemap",
+      "holograms",
+      "headindex"
     ],
     "Chat": [
       "no-chat-reports"

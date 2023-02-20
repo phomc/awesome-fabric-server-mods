@@ -10,6 +10,7 @@ A curated list of awesome Fabric server-side mods.
 |-------|-------------|-------|
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. |  [\[GitHub\]](https://github.com/FabricMC/fabric)   [\[Wiki\]](https://fabricmc.net/wiki/)   [\[Discord\]](https://discord.gg/v6v4pMv)   [\[Issues\]](https://github.com/FabricMC/fabric/issues)  |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration Library for Minecraft Mods |  [\[GitHub\]](https://github.com/shedaniel/ClothConfig/)   [\[Wiki\]](https://shedaniel.gitbook.io/cloth-config/)   [\[Discord\]](https://discord.gg/Vs9AVkxjYY)   [\[Issues\]](https://github.com/shedaniel/ClothConfig/issues)  |
+| [Polymer](https://modrinth.com/mod/polymer) | Library for creating better server side content! |  [\[GitHub\]](https://github.com/Patbox/polymer)   [\[Wiki\]](https://polymer.pb4.eu)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/polymer/issues)  |
 
 ## Chat
 | Name  | Description | Links |
@@ -48,6 +49,8 @@ A curated list of awesome Fabric server-side mods.
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | Configurable, permissions-backed utility commands for Fabric servers (tpa, home, warp, spawn, back, nick, rtp) |  [\[GitHub\]](https://github.com/John-Paul-R/Essential-Commands)   [\[Wiki\]](https://github.com/John-Paul-R/Essential-Commands/wiki)   [\[Discord\]](https://discord.jpcode.dev)   [\[Issues\]](https://github.com/John-Paul-R/Essential-Commands/issues)  |
 | [Inv View](https://modrinth.com/mod/invview) | Allows you to open and manipulate the inventories and ender chests of online and offline players. Server Side |  [\[GitHub\]](https://github.com/PotatoPresident/InvView)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/InvView/issues)  |
 | [BlueMap](https://modrinth.com/mod/bluemap) | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |  [\[GitHub\]](https://github.com/BlueMap-Minecraft/BlueMap)   [\[Wiki\]](https://bluemap.bluecolored.de/wiki/)   [\[Discord\]](https://discord.gg/zmkyJa3)   [\[Issues\]](https://github.com/BlueMap-Minecraft/BlueMap/issues)  |
+| [Holograms](https://modrinth.com/mod/holograms) | Simple mod that allows to create of server side holograms |  [\[GitHub\]](https://github.com/Patbox/Holograms)   [\[Wiki\]](https://github.com/Patbox/Holograms)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/Holograms/issues)  |
+| [Head Index](https://modrinth.com/mod/headindex) | An easy to use, server-side head database mod for the Fabric Loader. |  [\[GitHub\]](https://github.com/PotatoPresident/HeadIndex)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/HeadIndex/issues)  |
 
 ## World Generation
 | Name  | Description | Links |
