@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"strings"
 )
 
 type Projects struct {
@@ -30,10 +31,10 @@ func FetchProjects(dataSet *DataSet, projects *Projects) {
 	}
 }
 
-// why we have to reinvent the wheel in go???
 func contains(what string, where []string) bool {
 	for _, v := range where {
-		if v == what {
+		// ignore revisions at the end
+		if strings.Index(v, what) == 0 {
 			return true
 		}
 	}
