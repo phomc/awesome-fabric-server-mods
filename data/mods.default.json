@@ -17,6 +17,7 @@
       "spark"
     ],
     "Utility": [
+      "worldedit",
       "chunky",
       "luckperms",
       "essential-commands",

@@ -6,6 +6,7 @@ The generator automatically parses the `data` folder, fetches information from M
 ```
 generator \
 -template "template.md" \
+-custom "../data/mods.custom.json" \
 -data "../data/mods.default.json" \
 -cache "cache.json" \
 -out "../README.md"

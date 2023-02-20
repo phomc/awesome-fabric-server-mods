@@ -1,0 +1,12 @@
+{
+  "data": {
+    "worldedit": {
+      "title": "WorldEdit",
+      "description": "A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting.",
+      "issues_url":"https://github.com/EngineHub/WorldEdit/issues",
+      "source_url":"https://github.com/EngineHub/WorldEdit",
+      "wiki_url":"https://worldedit.enginehub.org/en/latest",
+      "discord_url":"https://discord.gg/enginehub"
+    }
+  }
+}

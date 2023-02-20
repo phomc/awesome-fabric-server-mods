@@ -22,6 +22,7 @@ type TemplateData struct {
 func main() {
 	templatePath := flag.String("template", "template.md", "Specifies the template file path")
 	dataPath := flag.String("data", "../data/mods.default.json", "Specifies the data file path")
+	customProjectPath := flag.String("custom", "../data/projects.custom.json", "Specifies the path to projects.custom.json")
 	cachePath := flag.String("cache", "cache.json", "Specifies cache file")
 	outPath := flag.String("out", "../README.md", "Specifies the output path")
 	flag.Parse()
@@ -32,10 +33,18 @@ func main() {
 	dataSet := &DataSet{}
 	parseJSON(*dataPath, dataSet)
 
-	projects := &Projects{}
-	parseJSONSilently(*cachePath, projects)
-	FetchProjects(dataSet, projects)
-	saveJSON(*cachePath, projects)
+	customProjects := &Projects{}
+	parseJSONSilently(*customProjectPath, customProjects)
+
+	cachedProjects := &Projects{}
+	parseJSONSilently(*cachePath, cachedProjects)
+	FetchProjects(dataSet, cachedProjects, customProjects)
+	saveJSON(*cachePath, cachedProjects)
+
+	// merge custom projects to the cached map for handling template
+	for k, v := range customProjects.Data {
+		cachedProjects.Data[k] = v
+	}
 
 	out, err := os.Create(*outPath)
 	if err != nil {
@@ -49,7 +58,7 @@ func main() {
 	}
 	if err = tmpl.Execute(w, &TemplateData{
 		DataSet:  dataSet,
-		Projects: projects,
+		Projects: cachedProjects,
 	}); err != nil {
 		log.Fatalln(err)
 	}

@@ -44,6 +44,7 @@ A curated list of awesome Fabric server-side mods.
 ## Utility
 | Name  | Description | Links |
 |-------|-------------|-------|
+| [WorldEdit](https://modrinth.com/mod/worldedit) | A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. |  [\[GitHub\]](https://github.com/EngineHub/WorldEdit)   [\[Wiki\]](https://worldedit.enginehub.org/en/latest)   [\[Discord\]](https://discord.gg/enginehub)   [\[Issues\]](https://github.com/EngineHub/WorldEdit/issues)  |
 | [Chunky](https://modrinth.com/mod/chunky) | Pre-generates chunks, quickly and efficiently |  [\[GitHub\]](https://github.com/pop4959/Chunky)   [\[Wiki\]](https://github.com/pop4959/Chunky/wiki)   [\[Discord\]](https://discord.gg/ZwVJukcNQG)   [\[Issues\]](https://github.com/pop4959/Chunky/issues)  |
 | [LuckPerms](https://modrinth.com/mod/luckperms) | A permissions plugin (mod) for Minecraft servers. |  [\[GitHub\]](https://github.com/lucko/LuckPerms)   [\[Wiki\]](https://luckperms.net/wiki)   [\[Discord\]](https://discord.gg/luckperms)   [\[Issues\]](https://github.com/lucko/LuckPerms/issues)  |
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | Configurable, permissions-backed utility commands for Fabric servers (tpa, home, warp, spawn, back, nick, rtp) |  [\[GitHub\]](https://github.com/John-Paul-R/Essential-Commands)   [\[Wiki\]](https://github.com/John-Paul-R/Essential-Commands/wiki)   [\[Discord\]](https://discord.jpcode.dev)   [\[Issues\]](https://github.com/John-Paul-R/Essential-Commands/issues)  |
