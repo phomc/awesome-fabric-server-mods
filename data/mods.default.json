@@ -1,0 +1,24 @@
+{
+  "version": "1.19.3",
+  "data": {
+    "API & Libraries": [
+      "fabric-api",
+      "cardboard"
+    ],
+    "Optimization": [
+      "lithium",
+      "starlight",
+      "lazydfu"
+    ],
+    "Monitoring": [
+      "spark"
+    ],
+    "Utility": [
+      "chunky",
+      "luckperms"
+    ],
+    "World Generation": [
+      "terra"
+    ]
+  }
+}
