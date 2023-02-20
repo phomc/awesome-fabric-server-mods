@@ -1,8 +1,9 @@
 # Data
 
 ### Mod requirements
-- The mod must be stable with as few open issues as possible
-- The mod must fully support the current version
+- The mod must be **stable** with as few open issues as possible
+- The mod must **fully support** the current version
+- The mod should provide **permission support**
 - The mod should be compatible with other mods (TODO: Add a notice?)
 
 ### Versions
