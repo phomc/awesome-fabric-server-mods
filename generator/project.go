@@ -5,6 +5,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"strings"
 	"time"
 )
 
@@ -62,5 +63,11 @@ func FetchProject(name string) *Project {
 	if err = json.Unmarshal(body, project); err != nil {
 		log.Fatalln(err)
 	}
+
+	// fix markdown link escapes
+	project.DiscordURL = strings.ReplaceAll(project.DiscordURL, " ", "%20")
+	project.WikiURL = strings.ReplaceAll(project.WikiURL, " ", "%20")
+	project.SourceURL = strings.ReplaceAll(project.SourceURL, " ", "%20")
+	project.IssuesURL = strings.ReplaceAll(project.IssuesURL, " ", "%20")
 	return project
 }
