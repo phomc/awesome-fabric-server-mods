@@ -42,6 +42,13 @@
       "issues_url":"https://github.com/Patbox/HologramAPI/issues",
       "source_url":"https://github.com/Patbox/HologramAPI",
       "wiki_url":"https://github.com/Patbox/HologramAPI"
+    },
+    "StyledPlayerList": {
+      "title": "StyledPlayerList",
+      "description": "This mod allows server owners to change how player list look!",
+      "issues_url":"https://github.com/Patbox/StyledPlayerList/issues",
+      "source_url":"https://github.com/Patbox/StyledPlayerList",
+      "wiki_url":"https://github.com/Patbox/StyledPlayerList"
     }
   }
 }

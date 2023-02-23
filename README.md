@@ -58,6 +58,7 @@ A curated list of awesome Fabric server-side mods.
 | [BlueMap](https://modrinth.com/mod/bluemap) | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |  [\[GitHub\]](https://github.com/BlueMap-Minecraft/BlueMap)   [\[Wiki\]](https://bluemap.bluecolored.de/wiki/)   [\[Discord\]](https://discord.gg/zmkyJa3)   [\[Issues\]](https://github.com/BlueMap-Minecraft/BlueMap/issues)  |
 | [Holograms](https://modrinth.com/mod/holograms) | Simple mod that allows to create of server side holograms |  [\[GitHub\]](https://github.com/Patbox/Holograms)   [\[Wiki\]](https://github.com/Patbox/Holograms)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/Holograms/issues)  |
 | [Head Index](https://modrinth.com/mod/headindex) | An easy to use, server-side head database mod for the Fabric Loader. |  [\[GitHub\]](https://github.com/PotatoPresident/HeadIndex)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/HeadIndex/issues)  |
+| [StyledPlayerList](https://modrinth.com/mod/StyledPlayerList) | This mod allows server owners to change how player list look! |  [\[GitHub\]](https://github.com/Patbox/StyledPlayerList)   [\[Wiki\]](https://github.com/Patbox/StyledPlayerList)    [\[Issues\]](https://github.com/Patbox/StyledPlayerList/issues)  |
 
 ## World Generation
 | Name  | Description | Links |

@@ -30,7 +30,8 @@
       "invview",
       "bluemap",
       "holograms",
-      "headindex"
+      "headindex",
+      "StyledPlayerList"
     ],
     "Chat": [
       "no-chat-reports"
