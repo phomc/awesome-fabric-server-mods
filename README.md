@@ -22,6 +22,7 @@ A curated list of awesome Fabric server-side mods.
 |-------|-------------|-------|
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Makes chat unreportable (where possible) |  [\[GitHub\]](https://github.com/Aizistral-Studios/No-Chat-Reports)   [\[Wiki\]](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki)   [\[Discord\]](https://discord.gg/fuWK8ns)   [\[Issues\]](https://github.com/Aizistral-Studios/No-Chat-Reports/issues)  |
 | [Styled Chat](https://modrinth.com/mod/styled-chat) | Style your server's chat as you want! |  [\[GitHub\]](https://github.com/Patbox/StyledChat)   [\[Wiki\]](https://github.com/Patbox/StyledChat)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/StyledChat/issues)  |
+| [Styled Nicknames](https://modrinth.com/mod/styled-nicknames) | Simple, but configurable nicknaming mod allowing your server's players (and admins) to change their nickname with full formatting support |  [\[GitHub\]](https://github.com/Patbox/StyledNicknames)    [\[Discord\]](https://pb4.eu/discord)   |
 
 ## Economy
 | Name  | Description | Links |

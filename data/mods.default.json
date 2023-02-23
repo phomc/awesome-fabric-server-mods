@@ -39,7 +39,8 @@
     ],
     "Chat": [
       "no-chat-reports",
-      "styled-chat"
+      "styled-chat",
+      "styled-nicknames"
     ],
     "Game Mode": [
       "factions"
