@@ -60,6 +60,7 @@ A curated list of awesome Fabric server-side mods.
 | [Head Index](https://modrinth.com/mod/headindex) | An easy to use, server-side head database mod for the Fabric Loader. |  [\[GitHub\]](https://github.com/PotatoPresident/HeadIndex)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/HeadIndex/issues)  |
 | [StyledPlayerList](https://modrinth.com/mod/StyledPlayerList) | This mod allows server owners to change how player list look! |  [\[GitHub\]](https://github.com/Patbox/StyledPlayerList)   [\[Wiki\]](https://github.com/Patbox/StyledPlayerList)    [\[Issues\]](https://github.com/Patbox/StyledPlayerList/issues)  |
 | [ArmorStandEditor](https://modrinth.com/mod/ArmorStandEditor) | Simple server side armor stand editor for Fabric. |  [\[GitHub\]](https://github.com/Patbox/ArmorStandEditor)   [\[Wiki\]](https://github.com/Patbox/ArmorStandEditor)    [\[Issues\]](https://github.com/Patbox/ArmorStandEditor/issues)  |
+| [Sidebar API](https://modrinth.com/mod/SidebarAPI) | Simple API for Fabric server side sidebar (scoreboard) |  [\[GitHub\]](https://github.com/Patbox/SidebarAPI)   [\[Wiki\]](https://github.com/Patbox/SidebarAPI)    [\[Issues\]](https://github.com/Patbox/SidebarAPI/issues)  |
 
 ## World Generation
 | Name  | Description | Links |

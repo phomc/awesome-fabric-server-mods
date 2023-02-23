@@ -56,6 +56,13 @@
       "issues_url":"https://github.com/Patbox/ArmorStandEditor/issues",
       "source_url":"https://github.com/Patbox/ArmorStandEditor",
       "wiki_url":"https://github.com/Patbox/ArmorStandEditor"
+    },
+    "SidebarAPI": {
+      "title": "Sidebar API",
+      "description": "Simple API for Fabric server side sidebar (scoreboard)",
+      "issues_url":"https://github.com/Patbox/SidebarAPI/issues",
+      "source_url":"https://github.com/Patbox/SidebarAPI",
+      "wiki_url":"https://github.com/Patbox/SidebarAPI"
     }
   }
 }

@@ -32,7 +32,8 @@
       "holograms",
       "headindex",
       "StyledPlayerList",
-      "ArmorStandEditor"
+      "ArmorStandEditor",
+      "SidebarAPI"
     ],
     "Chat": [
       "no-chat-reports"
