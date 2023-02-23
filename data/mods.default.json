@@ -20,7 +20,7 @@
     ],
     "Monitoring & Management": [
       "spark",
-      "BanHammer"
+      "banhammer"
     ],
     "Utility": [
       "worldedit",
@@ -33,13 +33,13 @@
       "bluemap",
       "holograms",
       "headindex",
-      "StyledPlayerList",
-      "StyledSidebars",
-      "ArmorStandEditor"
+      "styledplayerlist",
+      "styled-sidebars",
+      "armorstandeditor"
     ],
     "Chat": [
       "no-chat-reports",
-      "StyledChat"
+      "styled-chat"
     ],
     "Game Mode": [
       "factions"

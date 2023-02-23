@@ -21,7 +21,7 @@ A curated list of awesome Fabric server-side mods.
 | Name  | Description | Links |
 |-------|-------------|-------|
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Makes chat unreportable (where possible) |  [\[GitHub\]](https://github.com/Aizistral-Studios/No-Chat-Reports)   [\[Wiki\]](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki)   [\[Discord\]](https://discord.gg/fuWK8ns)   [\[Issues\]](https://github.com/Aizistral-Studios/No-Chat-Reports/issues)  |
-| [StyledChat](https://modrinth.com/mod/StyledChat) | Style your chat as you want! (Server side, Fabric) |  [\[GitHub\]](https://github.com/Patbox/StyledChat)   [\[Wiki\]](https://github.com/Patbox/StyledChat)    [\[Issues\]](https://github.com/Patbox/StyledChat/issues)  |
+| [Styled Chat](https://modrinth.com/mod/styled-chat) | Style your server's chat as you want! |  [\[GitHub\]](https://github.com/Patbox/StyledChat)   [\[Wiki\]](https://github.com/Patbox/StyledChat)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/StyledChat/issues)  |
 
 ## Game Mode
 | Name  | Description | Links |
@@ -38,7 +38,7 @@ A curated list of awesome Fabric server-side mods.
 | Name  | Description | Links |
 |-------|-------------|-------|
 | [spark](https://modrinth.com/mod/spark) | spark is a performance profiler for Minecraft clients, servers and proxies. |  [\[GitHub\]](https://github.com/lucko/spark)   [\[Wiki\]](https://spark.lucko.me/docs)   [\[Discord\]](https://discord.gg/PAGT2fu)   [\[Issues\]](https://github.com/lucko/spark/issues)  |
-| [BanHammer](https://modrinth.com/mod/BanHammer) | Simple punishment utility for Fabric |  [\[GitHub\]](https://github.com/Patbox/BanHammer)   [\[Wiki\]](https://github.com/Patbox/BanHammer)    [\[Issues\]](https://github.com/Patbox/BanHammer/issues)  |
+| [BanHammer](https://modrinth.com/mod/banhammer) | Simple, customisable punishment utility mod for Fabric |  [\[GitHub\]](https://github.com/Patbox/BanHammer)    [\[Discord\]](https://discord.com/invite/AbqPPppgrd)   [\[Issues\]](https://github.com/Patbox/BanHammer/issues)  |
 
 ## Optimization
 | Name  | Description | Links |
@@ -54,7 +54,7 @@ A curated list of awesome Fabric server-side mods.
 |-------|-------------|-------|
 | [WorldEdit](https://modrinth.com/mod/worldedit) | A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. |  [\[GitHub\]](https://github.com/EngineHub/WorldEdit)   [\[Wiki\]](https://worldedit.enginehub.org/en/latest)   [\[Discord\]](https://discord.gg/enginehub)   [\[Issues\]](https://github.com/EngineHub/WorldEdit/issues)  |
 | [Chunky](https://modrinth.com/mod/chunky) | Pre-generates chunks, quickly and efficiently |  [\[GitHub\]](https://github.com/pop4959/Chunky)   [\[Wiki\]](https://github.com/pop4959/Chunky/wiki)   [\[Discord\]](https://discord.gg/ZwVJukcNQG)   [\[Issues\]](https://github.com/pop4959/Chunky/issues)  |
-| [Leukocyte](https://modrinth.com/mod/leukocyte) | Region-based protection controllable by API or commands. |  [\[GitHub\]](https://github.com/NucleoidMC/leukocyte)   [\[Wiki\]](https://github.com/NucleoidMC/leukocyte)    [\[Issues\]](https://github.com/NucleoidMC/leukocyte/issues)  |
+| [Leukocyte](https://modrinth.com/mod/leukocyte) | Server-side, region-based protection controllable by API or commands |  [\[GitHub\]](https://github.com/NucleoidMC/leukocyte)    [\[Discord\]](https://nucleoid.xyz/discord)   [\[Issues\]](https://github.com/NucleoidMC/leukocyte/issues)  |
 | [LuckPerms](https://modrinth.com/mod/luckperms) | A permissions plugin (mod) for Minecraft servers. |  [\[GitHub\]](https://github.com/lucko/LuckPerms)   [\[Wiki\]](https://luckperms.net/wiki)   [\[Discord\]](https://discord.gg/luckperms)   [\[Issues\]](https://github.com/lucko/LuckPerms/issues)  |
 | [Player Roles](https://modrinth.com/mod/player-roles) | Role & permission management for Fabric servers |  [\[GitHub\]](https://github.com/NucleoidMC/player-roles/)    [\[Discord\]](https://nucleoid.xyz/discord)   [\[Issues\]](https://github.com/NucleoidMC/player-roles/issues)  |
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | Configurable, permissions-backed utility commands for Fabric servers (tpa, home, warp, spawn, back, nick, rtp) |  [\[GitHub\]](https://github.com/John-Paul-R/Essential-Commands)   [\[Wiki\]](https://github.com/John-Paul-R/Essential-Commands/wiki)   [\[Discord\]](https://discord.jpcode.dev)   [\[Issues\]](https://github.com/John-Paul-R/Essential-Commands/issues)  |
@@ -62,9 +62,9 @@ A curated list of awesome Fabric server-side mods.
 | [BlueMap](https://modrinth.com/mod/bluemap) | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |  [\[GitHub\]](https://github.com/BlueMap-Minecraft/BlueMap)   [\[Wiki\]](https://bluemap.bluecolored.de/wiki/)   [\[Discord\]](https://discord.gg/zmkyJa3)   [\[Issues\]](https://github.com/BlueMap-Minecraft/BlueMap/issues)  |
 | [Holograms](https://modrinth.com/mod/holograms) | Simple mod that allows to create of server side holograms |  [\[GitHub\]](https://github.com/Patbox/Holograms)   [\[Wiki\]](https://github.com/Patbox/Holograms)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/Holograms/issues)  |
 | [Head Index](https://modrinth.com/mod/headindex) | An easy to use, server-side head database mod for the Fabric Loader. |  [\[GitHub\]](https://github.com/PotatoPresident/HeadIndex)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/HeadIndex/issues)  |
-| [StyledPlayerList](https://modrinth.com/mod/StyledPlayerList) | This mod allows server owners to change how player list look! |  [\[GitHub\]](https://github.com/Patbox/StyledPlayerList)   [\[Wiki\]](https://github.com/Patbox/StyledPlayerList)    [\[Issues\]](https://github.com/Patbox/StyledPlayerList/issues)  |
-| [StyledSidebars](https://modrinth.com/mod/StyledSidebars) | Customisable sidebars for your Minecraft server! (Fabric/Quilt) |  [\[GitHub\]](https://github.com/Patbox/StyledSidebars)   [\[Wiki\]](https://github.com/Patbox/StyledSidebars)    [\[Issues\]](https://github.com/Patbox/StyledSidebars/issues)  |
-| [ArmorStandEditor](https://modrinth.com/mod/ArmorStandEditor) | Simple server side armor stand editor for Fabric. |  [\[GitHub\]](https://github.com/Patbox/ArmorStandEditor)   [\[Wiki\]](https://github.com/Patbox/ArmorStandEditor)    [\[Issues\]](https://github.com/Patbox/ArmorStandEditor/issues)  |
+| [Styled Player List](https://modrinth.com/mod/styledplayerlist) | This mod allows server owners to change player list look! |  [\[GitHub\]](https://github.com/Patbox/StyledPlayerList)    [\[Discord\]](https://discord.com/invite/AbqPPppgrd)   [\[Issues\]](https://github.com/Patbox/StyledPlayerList/issues)  |
+| [Styled Sidebars](https://modrinth.com/mod/styled-sidebars) | Customisable sidebars for your Minecraft server! |  [\[GitHub\]](https://github.com/Patbox/StyledSidebars)    [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/StyledSidebars/issues)  |
+| [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor) | Pose and modify your armor stand with ease! |  [\[GitHub\]](https://github.com/Patbox/ArmorStandEditor)    [\[Discord\]](https://discord.com/invite/AbqPPppgrd)   [\[Issues\]](https://github.com/Patbox/ArmorStandEditor/issues)  |
 
 ## World Generation
 | Name  | Description | Links |
