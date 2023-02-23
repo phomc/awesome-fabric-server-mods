@@ -31,10 +31,11 @@ A curated list of awesome Fabric server-side mods.
 |-------|-------------|-------|
 | [Healing Campfire](https://modrinth.com/mod/healing-campfire) | 🔥🩹 Creates an area around the (soul) campfire where players and passive mobs receive regeneration. |  [\[GitHub\]](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Healing%20Campfire)     [\[Issues\]](https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Healing%20Campfire)  |
 
-## Monitoring
+## Monitoring & Management
 | Name  | Description | Links |
 |-------|-------------|-------|
 | [spark](https://modrinth.com/mod/spark) | spark is a performance profiler for Minecraft clients, servers and proxies. |  [\[GitHub\]](https://github.com/lucko/spark)   [\[Wiki\]](https://spark.lucko.me/docs)   [\[Discord\]](https://discord.gg/PAGT2fu)   [\[Issues\]](https://github.com/lucko/spark/issues)  |
+| [BanHammer](https://modrinth.com/mod/BanHammer) | Simple punishment utility for Fabric |  [\[GitHub\]](https://github.com/Patbox/BanHammer)   [\[Wiki\]](https://github.com/Patbox/BanHammer)    [\[Issues\]](https://github.com/Patbox/BanHammer/issues)  |
 
 ## Optimization
 | Name  | Description | Links |

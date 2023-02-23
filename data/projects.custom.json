@@ -63,6 +63,13 @@
       "issues_url":"https://github.com/Patbox/SidebarAPI/issues",
       "source_url":"https://github.com/Patbox/SidebarAPI",
       "wiki_url":"https://github.com/Patbox/SidebarAPI"
+    },
+    "BanHammer": {
+      "title": "BanHammer",
+      "description": "Simple punishment utility for Fabric",
+      "issues_url":"https://github.com/Patbox/BanHammer/issues",
+      "source_url":"https://github.com/Patbox/BanHammer",
+      "wiki_url":"https://github.com/Patbox/BanHammer"
     }
   }
 }

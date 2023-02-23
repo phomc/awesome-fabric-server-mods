@@ -17,8 +17,9 @@
       "c2me-fabric",
       "alternate-current"
     ],
-    "Monitoring": [
-      "spark"
+    "Monitoring & Management": [
+      "spark",
+      "BanHammer"
     ],
     "Utility": [
       "worldedit",
