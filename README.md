@@ -11,6 +11,7 @@ A curated list of awesome Fabric server-side mods.
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. |  [\[GitHub\]](https://github.com/FabricMC/fabric)   [\[Wiki\]](https://fabricmc.net/wiki/)   [\[Discord\]](https://discord.gg/v6v4pMv)   [\[Issues\]](https://github.com/FabricMC/fabric/issues)  |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration Library for Minecraft Mods |  [\[GitHub\]](https://github.com/shedaniel/ClothConfig/)   [\[Wiki\]](https://shedaniel.gitbook.io/cloth-config/)   [\[Discord\]](https://discord.gg/Vs9AVkxjYY)   [\[Issues\]](https://github.com/shedaniel/ClothConfig/issues)  |
 | [Polymer](https://modrinth.com/mod/polymer) | Library for creating better server side content! |  [\[GitHub\]](https://github.com/Patbox/polymer)   [\[Wiki\]](https://polymer.pb4.eu)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/polymer/issues)  |
+| [Fantasy](https://modrinth.com/mod/fantasy) | Library to support creating dimensions at runtime. |  [\[GitHub\]](https://github.com/NucleoidMC/fantasy)   [\[Wiki\]](https://github.com/NucleoidMC/fantasy)    [\[Issues\]](https://github.com/NucleoidMC/fantasy/issues)  |
 
 ## Chat
 | Name  | Description | Links |

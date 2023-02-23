@@ -4,7 +4,8 @@
     "API & Libraries": [
       "fabric-api",
       "cloth-config",
-      "polymer"
+      "polymer",
+      "fantasy"
     ],
     "Optimization": [
       "lithium",

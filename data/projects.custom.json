@@ -14,6 +14,13 @@
       "issues_url":"https://github.com/NucleoidMC/leukocyte/issues",
       "source_url":"https://github.com/NucleoidMC/leukocyte",
       "wiki_url":"https://github.com/NucleoidMC/leukocyte"
+    },
+    "fantasy": {
+      "title": "Fantasy",
+      "description": "Library to support creating dimensions at runtime.",
+      "issues_url":"https://github.com/NucleoidMC/fantasy/issues",
+      "source_url":"https://github.com/NucleoidMC/fantasy",
+      "wiki_url":"https://github.com/NucleoidMC/fantasy"
     }
   }
 }
