@@ -45,7 +45,8 @@
       "factions"
     ],
     "Mechanics": [
-      "healing-campfire"
+      "healing-campfire",
+      "brewery"
     ],
     "World Generation": [
       "terra",

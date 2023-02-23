@@ -32,6 +32,7 @@ A curated list of awesome Fabric server-side mods.
 | Name  | Description | Links |
 |-------|-------------|-------|
 | [Healing Campfire](https://modrinth.com/mod/healing-campfire) | 🔥🩹 Creates an area around the (soul) campfire where players and passive mobs receive regeneration. |  [\[GitHub\]](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Healing%20Campfire)     [\[Issues\]](https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Healing%20Campfire)  |
+| [Patbox's Brewery](https://modrinth.com/mod/brewery) | Create alcoholic and non-alcoholic drinks with cauldrons and barrels! |  [\[GitHub\]](https://github.com/Patbox/brewery)    [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/brewery/issues)  |
 
 ## Monitoring & Management
 | Name  | Description | Links |
