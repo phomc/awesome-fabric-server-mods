@@ -31,7 +31,8 @@
       "bluemap",
       "holograms",
       "headindex",
-      "StyledPlayerList"
+      "StyledPlayerList",
+      "ArmorStandEditor"
     ],
     "Chat": [
       "no-chat-reports"
