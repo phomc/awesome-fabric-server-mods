@@ -35,6 +35,13 @@
       "issues_url":"https://github.com/NucleoidMC/stimuli/issues",
       "source_url":"https://github.com/NucleoidMC/stimuli",
       "wiki_url":"https://github.com/NucleoidMC/stimuli"
+    },
+    "HologramAPI": {
+      "title": "HologramAPI",
+      "description": "Simple API for creation of server side holograms without entities.",
+      "issues_url":"https://github.com/Patbox/HologramAPI/issues",
+      "source_url":"https://github.com/Patbox/HologramAPI",
+      "wiki_url":"https://github.com/Patbox/HologramAPI"
     }
   }
 }
