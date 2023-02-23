@@ -46,7 +46,8 @@
     ],
     "Mechanics": [
       "healing-campfire",
-      "brewery"
+      "brewery",
+      "universal-graves"
     ],
     "World Generation": [
       "terra",
