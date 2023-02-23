@@ -5,7 +5,8 @@
       "fabric-api",
       "cloth-config",
       "polymer",
-      "fantasy"
+      "fantasy",
+      "DisguiseLib"
     ],
     "Optimization": [
       "lithium",

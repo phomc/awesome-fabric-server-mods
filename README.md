@@ -12,6 +12,7 @@ A curated list of awesome Fabric server-side mods.
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration Library for Minecraft Mods |  [\[GitHub\]](https://github.com/shedaniel/ClothConfig/)   [\[Wiki\]](https://shedaniel.gitbook.io/cloth-config/)   [\[Discord\]](https://discord.gg/Vs9AVkxjYY)   [\[Issues\]](https://github.com/shedaniel/ClothConfig/issues)  |
 | [Polymer](https://modrinth.com/mod/polymer) | Library for creating better server side content! |  [\[GitHub\]](https://github.com/Patbox/polymer)   [\[Wiki\]](https://polymer.pb4.eu)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/polymer/issues)  |
 | [Fantasy](https://modrinth.com/mod/fantasy) | Library to support creating dimensions at runtime. |  [\[GitHub\]](https://github.com/NucleoidMC/fantasy)   [\[Wiki\]](https://github.com/NucleoidMC/fantasy)    [\[Issues\]](https://github.com/NucleoidMC/fantasy/issues)  |
+| [DisguiseLib](https://modrinth.com/mod/DisguiseLib) | A (server-side) library for disguising entities in Minecraft. |  [\[GitHub\]](https://github.com/NucleoidMC/DisguiseLib)   [\[Wiki\]](https://github.com/NucleoidMC/DisguiseLib)    [\[Issues\]](https://github.com/NucleoidMC/DisguiseLib/issues)  |
 
 ## Chat
 | Name  | Description | Links |
