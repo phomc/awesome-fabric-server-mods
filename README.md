@@ -14,6 +14,7 @@ A curated list of awesome Fabric server-side mods.
 | [Fantasy](https://modrinth.com/mod/fantasy) | Library to support creating dimensions at runtime. |  [\[GitHub\]](https://github.com/NucleoidMC/fantasy)   [\[Wiki\]](https://github.com/NucleoidMC/fantasy)    [\[Issues\]](https://github.com/NucleoidMC/fantasy/issues)  |
 | [DisguiseLib](https://modrinth.com/mod/DisguiseLib) | A (server-side) library for disguising entities in Minecraft. |  [\[GitHub\]](https://github.com/NucleoidMC/DisguiseLib)   [\[Wiki\]](https://github.com/NucleoidMC/DisguiseLib)    [\[Issues\]](https://github.com/NucleoidMC/DisguiseLib/issues)  |
 | [HologramAPI](https://modrinth.com/mod/HologramAPI) | Simple API for creation of server side holograms without entities. |  [\[GitHub\]](https://github.com/Patbox/HologramAPI)   [\[Wiki\]](https://github.com/Patbox/HologramAPI)    [\[Issues\]](https://github.com/Patbox/HologramAPI/issues)  |
+| [Sidebar API](https://modrinth.com/mod/SidebarAPI) | Simple API for Fabric server side sidebar (scoreboard) |  [\[GitHub\]](https://github.com/Patbox/SidebarAPI)   [\[Wiki\]](https://github.com/Patbox/SidebarAPI)    [\[Issues\]](https://github.com/Patbox/SidebarAPI/issues)  |
 | [Stimuli](https://modrinth.com/mod/stimuli) | Library for working server-side events with the ability to filter by event source. |  [\[GitHub\]](https://github.com/NucleoidMC/stimuli)   [\[Wiki\]](https://github.com/NucleoidMC/stimuli)    [\[Issues\]](https://github.com/NucleoidMC/stimuli/issues)  |
 
 ## Chat
@@ -60,8 +61,8 @@ A curated list of awesome Fabric server-side mods.
 | [Holograms](https://modrinth.com/mod/holograms) | Simple mod that allows to create of server side holograms |  [\[GitHub\]](https://github.com/Patbox/Holograms)   [\[Wiki\]](https://github.com/Patbox/Holograms)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/Holograms/issues)  |
 | [Head Index](https://modrinth.com/mod/headindex) | An easy to use, server-side head database mod for the Fabric Loader. |  [\[GitHub\]](https://github.com/PotatoPresident/HeadIndex)    [\[Discord\]](https://discord.gg/ByaVuebAPb)   [\[Issues\]](https://github.com/PotatoPresident/HeadIndex/issues)  |
 | [StyledPlayerList](https://modrinth.com/mod/StyledPlayerList) | This mod allows server owners to change how player list look! |  [\[GitHub\]](https://github.com/Patbox/StyledPlayerList)   [\[Wiki\]](https://github.com/Patbox/StyledPlayerList)    [\[Issues\]](https://github.com/Patbox/StyledPlayerList/issues)  |
+| [StyledSidebars](https://modrinth.com/mod/StyledSidebars) | Customisable sidebars for your Minecraft server! (Fabric/Quilt) |  [\[GitHub\]](https://github.com/Patbox/StyledSidebars)   [\[Wiki\]](https://github.com/Patbox/StyledSidebars)    [\[Issues\]](https://github.com/Patbox/StyledSidebars/issues)  |
 | [ArmorStandEditor](https://modrinth.com/mod/ArmorStandEditor) | Simple server side armor stand editor for Fabric. |  [\[GitHub\]](https://github.com/Patbox/ArmorStandEditor)   [\[Wiki\]](https://github.com/Patbox/ArmorStandEditor)    [\[Issues\]](https://github.com/Patbox/ArmorStandEditor/issues)  |
-| [Sidebar API](https://modrinth.com/mod/SidebarAPI) | Simple API for Fabric server side sidebar (scoreboard) |  [\[GitHub\]](https://github.com/Patbox/SidebarAPI)   [\[Wiki\]](https://github.com/Patbox/SidebarAPI)    [\[Issues\]](https://github.com/Patbox/SidebarAPI/issues)  |
 
 ## World Generation
 | Name  | Description | Links |
