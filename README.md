@@ -13,6 +13,7 @@ A curated list of awesome Fabric server-side mods.
 | [Polymer](https://modrinth.com/mod/polymer) | Library for creating better server side content! |  [\[GitHub\]](https://github.com/Patbox/polymer)   [\[Wiki\]](https://polymer.pb4.eu)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/polymer/issues)  |
 | [Fantasy](https://modrinth.com/mod/fantasy) | Library to support creating dimensions at runtime. |  [\[GitHub\]](https://github.com/NucleoidMC/fantasy)   [\[Wiki\]](https://github.com/NucleoidMC/fantasy)    [\[Issues\]](https://github.com/NucleoidMC/fantasy/issues)  |
 | [DisguiseLib](https://modrinth.com/mod/DisguiseLib) | A (server-side) library for disguising entities in Minecraft. |  [\[GitHub\]](https://github.com/NucleoidMC/DisguiseLib)   [\[Wiki\]](https://github.com/NucleoidMC/DisguiseLib)    [\[Issues\]](https://github.com/NucleoidMC/DisguiseLib/issues)  |
+| [Stimuli](https://modrinth.com/mod/stimuli) | Library for working server-side events with the ability to filter by event source. |  [\[GitHub\]](https://github.com/NucleoidMC/stimuli)   [\[Wiki\]](https://github.com/NucleoidMC/stimuli)    [\[Issues\]](https://github.com/NucleoidMC/stimuli/issues)  |
 
 ## Chat
 | Name  | Description | Links |

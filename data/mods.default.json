@@ -6,7 +6,8 @@
       "cloth-config",
       "polymer",
       "fantasy",
-      "DisguiseLib"
+      "DisguiseLib",
+      "stimuli"
     ],
     "Optimization": [
       "lithium",
