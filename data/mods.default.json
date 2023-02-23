@@ -49,6 +49,9 @@
       "brewery",
       "universal-graves"
     ],
+    "Economy": [
+      "universal-shops"
+    ],
     "World Generation": [
       "terra",
       "tectonic",

@@ -23,6 +23,11 @@ A curated list of awesome Fabric server-side mods.
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Makes chat unreportable (where possible) |  [\[GitHub\]](https://github.com/Aizistral-Studios/No-Chat-Reports)   [\[Wiki\]](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki)   [\[Discord\]](https://discord.gg/fuWK8ns)   [\[Issues\]](https://github.com/Aizistral-Studios/No-Chat-Reports/issues)  |
 | [Styled Chat](https://modrinth.com/mod/styled-chat) | Style your server's chat as you want! |  [\[GitHub\]](https://github.com/Patbox/StyledChat)   [\[Wiki\]](https://github.com/Patbox/StyledChat)   [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/StyledChat/issues)  |
 
+## Economy
+| Name  | Description | Links |
+|-------|-------------|-------|
+| [Universal Shops](https://modrinth.com/mod/universal-shops) | Universal trade shop mod for your Minecraft server! |  [\[GitHub\]](https://github.com/Patbox/UniversalShops)    [\[Discord\]](https://pb4.eu/discord)   [\[Issues\]](https://github.com/Patbox/UniversalShops/issues)  |
+
 ## Game Mode
 | Name  | Description | Links |
 |-------|-------------|-------|
