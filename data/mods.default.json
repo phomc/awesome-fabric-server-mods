@@ -6,6 +6,7 @@
       "cloth-config",
       "polymer",
       "fantasy",
+      "TextPlaceholderAPI",
       "DisguiseLib",
       "HologramAPI",
       "SidebarAPI",
