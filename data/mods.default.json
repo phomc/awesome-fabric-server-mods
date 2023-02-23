@@ -38,7 +38,8 @@
       "ArmorStandEditor"
     ],
     "Chat": [
-      "no-chat-reports"
+      "no-chat-reports",
+      "StyledChat"
     ],
     "Game Mode": [
       "factions"

@@ -21,6 +21,7 @@ A curated list of awesome Fabric server-side mods.
 | Name  | Description | Links |
 |-------|-------------|-------|
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Makes chat unreportable (where possible) |  [\[GitHub\]](https://github.com/Aizistral-Studios/No-Chat-Reports)   [\[Wiki\]](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki)   [\[Discord\]](https://discord.gg/fuWK8ns)   [\[Issues\]](https://github.com/Aizistral-Studios/No-Chat-Reports/issues)  |
+| [StyledChat](https://modrinth.com/mod/StyledChat) | Style your chat as you want! (Server side, Fabric) |  [\[GitHub\]](https://github.com/Patbox/StyledChat)   [\[Wiki\]](https://github.com/Patbox/StyledChat)    [\[Issues\]](https://github.com/Patbox/StyledChat/issues)  |
 
 ## Game Mode
 | Name  | Description | Links |

@@ -71,6 +71,13 @@
       "source_url":"https://github.com/Patbox/StyledSidebars",
       "wiki_url":"https://github.com/Patbox/StyledSidebars"
     },
+    "StyledChat": {
+      "title": "StyledChat",
+      "description": "Style your chat as you want! (Server side, Fabric)",
+      "issues_url":"https://github.com/Patbox/StyledChat/issues",
+      "source_url":"https://github.com/Patbox/StyledChat",
+      "wiki_url":"https://github.com/Patbox/StyledChat"
+    },
     "BanHammer": {
       "title": "BanHammer",
       "description": "Simple punishment utility for Fabric",
