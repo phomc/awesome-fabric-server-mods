@@ -19,6 +19,7 @@
     "Utility": [
       "worldedit",
       "chunky",
+      "leukocyte",
       "luckperms",
       "essential-commands",
       "invview",
