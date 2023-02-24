@@ -10,7 +10,8 @@
       "DisguiseLib",
       "HologramAPI",
       "SidebarAPI",
-      "stimuli"
+      "stimuli",
+      "sgui"
     ],
     "Optimization": [
       "lithium",

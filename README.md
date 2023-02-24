@@ -17,6 +17,7 @@ A curated list of awesome Fabric server-side mods.
 |  HologramAPI  | Simple API for creation of server side holograms without entities. |  [\[GitHub\]](https://github.com/Patbox/HologramAPI)   [\[Wiki\]](https://github.com/Patbox/HologramAPI)    [\[Issues\]](https://github.com/Patbox/HologramAPI/issues)  |
 |  Sidebar API  | Simple API for Fabric server side sidebar (scoreboard) |  [\[GitHub\]](https://github.com/Patbox/SidebarAPI)   [\[Wiki\]](https://github.com/Patbox/SidebarAPI)    [\[Issues\]](https://github.com/Patbox/SidebarAPI/issues)  |
 |  Stimuli  | Library for working server-side events with the ability to filter by event source. |  [\[GitHub\]](https://github.com/NucleoidMC/stimuli)   [\[Wiki\]](https://github.com/NucleoidMC/stimuli)    [\[Issues\]](https://github.com/NucleoidMC/stimuli/issues)  |
+|  SGui  | Library for creating custom, server side guis on Fabric |  [\[GitHub\]](https://github.com/Patbox/sgui)   [\[Wiki\]](https://github.com/Patbox/sgui)    [\[Issues\]](https://github.com/Patbox/sgui/issues)  |
 
 ## Chat
 | Name  | Description | Links |

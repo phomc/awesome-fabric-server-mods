@@ -49,6 +49,13 @@
       "issues_url":"https://github.com/Patbox/TextPlaceholderAPI/issues",
       "source_url":"https://github.com/Patbox/TextPlaceholderAPI",
       "wiki_url":"https://github.com/Patbox/TextPlaceholderAPI"
+    },
+    "sgui": {
+      "title": "SGui",
+      "description": "Library for creating custom, server side guis on Fabric",
+      "issues_url":"https://github.com/Patbox/sgui/issues",
+      "source_url":"https://github.com/Patbox/sgui",
+      "wiki_url":"https://github.com/Patbox/sgui"
     }
   }
 }
